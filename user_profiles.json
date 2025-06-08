@@ -1,0 +1,52 @@
+[
+    {
+        "name": "John Doe",
+        "skills": ["Python", "Data Analysis"],
+        "career_goal": "Data Scientist"
+    },
+    {
+        "name": "Jane Roe",
+        "skills": ["Python", "TensorFlow", "SQL"],
+        "career_goal": "Machine Learning Engineer"
+    },
+    {
+        "name": "Alex Kim",
+        "skills": ["Python", "Agile", "Product Management"],
+        "career_goal": "AI Product Manager"
+    },
+    {
+        "name": "Sofia Patel",
+        "skills": ["Java", "SQL", "Git"],
+        "career_goal": "Software Engineer"
+    },
+    {
+        "name": "Liam Chen",
+        "skills": ["AWS", "Python", "Docker"],
+        "career_goal": "Cloud Architect"
+    },
+    {
+        "name": "Emma Brown",
+        "skills": ["SQL", "Excel", "Tableau"],
+        "career_goal": "Data Analyst"
+    },
+    {
+        "name": "Noah Lee",
+        "skills": ["Python", "R", "Statistics"],
+        "career_goal": "Data Scientist"
+    },
+    {
+        "name": "Olivia Garcia",
+        "skills": ["JavaScript", "Python", "Agile"],
+        "career_goal": "Software Engineer"
+    },
+    {
+        "name": "Mason Wong",
+        "skills": ["Azure", "Kubernetes", "Python"],
+        "career_goal": "Cloud Architect"
+    },
+    {
+        "name": "Ava Martinez",
+        "skills": ["Python", "Data Visualization", "SQL"],
+        "career_goal": "Data Analyst"
+    }
+]

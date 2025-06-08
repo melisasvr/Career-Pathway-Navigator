@@ -1,0 +1,1308 @@
+[
+    {
+        "user": "John Doe",
+        "career_goal": "Data Scientist",
+        "current_skills": [
+            "Python",
+            "Data Analysis"
+        ],
+        "trending_skills": [
+            [
+                "Python",
+                6
+            ],
+            [
+                "SQL",
+                3
+            ],
+            [
+                "Data Analysis",
+                2
+            ],
+            [
+                "AWS",
+                2
+            ],
+            [
+                "Statistics",
+                2
+            ],
+            [
+                "Agile",
+                2
+            ],
+            [
+                "TensorFlow",
+                1
+            ],
+            [
+                "Deep Learning",
+                1
+            ],
+            [
+                "R",
+                1
+            ],
+            [
+                "Machine Learning",
+                1
+            ],
+            [
+                "Pandas",
+                1
+            ],
+            [
+                "Visualization",
+                1
+            ],
+            [
+                "AI Strategy",
+                1
+            ],
+            [
+                "Product Management",
+                1
+            ],
+            [
+                "Java",
+                1
+            ],
+            [
+                "JavaScript",
+                1
+            ],
+            [
+                "Git",
+                1
+            ],
+            [
+                "Azure",
+                1
+            ],
+            [
+                "Kubernetes",
+                1
+            ],
+            [
+                "Docker",
+                1
+            ],
+            [
+                "Cloud Security",
+                1
+            ],
+            [
+                "Tableau",
+                1
+            ],
+            [
+                "Excel",
+                1
+            ],
+            [
+                "Data Visualization",
+                1
+            ]
+        ],
+        "skill_match_score": 0.2862763414390864,
+        "missing_skills": [
+            "R",
+            "Machine Learning",
+            "Statistics",
+            "Pandas",
+            "Visualization"
+        ],
+        "course_recommendations": [
+            {
+                "skill": "R",
+                "course_title": "R Programming by Johns Hopkins",
+                "url": "https://www.coursera.org/learn/r-programming",
+                "description": "Learn data analysis with R."
+            },
+            {
+                "skill": "Machine Learning",
+                "course_title": "Machine Learning by Stanford University",
+                "url": "https://www.coursera.org/learn/machine-learning",
+                "description": "Learn the foundations of Machine Learning with Python."
+            },
+            {
+                "skill": "Pandas",
+                "course_title": "Data Visualization with Python",
+                "url": "https://www.coursera.org/learn/python-for-data-visualization",
+                "description": "Create visualizations using Python and Pandas."
+            }
+        ]
+    },
+    {
+        "user": "Jane Roe",
+        "career_goal": "Machine Learning Engineer",
+        "current_skills": [
+            "Python",
+            "TensorFlow",
+            "SQL"
+        ],
+        "trending_skills": [
+            [
+                "Python",
+                6
+            ],
+            [
+                "SQL",
+                3
+            ],
+            [
+                "Data Analysis",
+                2
+            ],
+            [
+                "AWS",
+                2
+            ],
+            [
+                "Statistics",
+                2
+            ],
+            [
+                "Agile",
+                2
+            ],
+            [
+                "TensorFlow",
+                1
+            ],
+            [
+                "Deep Learning",
+                1
+            ],
+            [
+                "R",
+                1
+            ],
+            [
+                "Machine Learning",
+                1
+            ],
+            [
+                "Pandas",
+                1
+            ],
+            [
+                "Visualization",
+                1
+            ],
+            [
+                "AI Strategy",
+                1
+            ],
+            [
+                "Product Management",
+                1
+            ],
+            [
+                "Java",
+                1
+            ],
+            [
+                "JavaScript",
+                1
+            ],
+            [
+                "Git",
+                1
+            ],
+            [
+                "Azure",
+                1
+            ],
+            [
+                "Kubernetes",
+                1
+            ],
+            [
+                "Docker",
+                1
+            ],
+            [
+                "Cloud Security",
+                1
+            ],
+            [
+                "Tableau",
+                1
+            ],
+            [
+                "Excel",
+                1
+            ],
+            [
+                "Data Visualization",
+                1
+            ]
+        ],
+        "skill_match_score": 0.9326796606496646,
+        "missing_skills": [
+            "Deep Learning",
+            "Data Analysis",
+            "AWS"
+        ],
+        "course_recommendations": [
+            {
+                "skill": "Deep Learning",
+                "course_title": "Deep Learning Specialization",
+                "url": "https://www.coursera.org/specializations/deep-learning",
+                "description": "Master deep learning techniques using TensorFlow."
+            },
+            {
+                "skill": "Data Analysis",
+                "course_title": "IBM AI Developer Professional Certificate",
+                "url": "https://www.coursera.org/professional-certificates/ibm-ai-developer",
+                "description": "Build AI-powered applications with Python."
+            },
+            {
+                "skill": "Data Analysis",
+                "course_title": "R Programming by Johns Hopkins",
+                "url": "https://www.coursera.org/learn/r-programming",
+                "description": "Learn data analysis with R."
+            },
+            {
+                "skill": "AWS",
+                "course_title": "AWS Cloud Solutions Architect",
+                "url": "https://www.coursera.org/professional-certificates/aws-cloud-solutions-architect",
+                "description": "Design cloud solutions with AWS."
+            }
+        ]
+    },
+    {
+        "user": "Alex Kim",
+        "career_goal": "AI Product Manager",
+        "current_skills": [
+            "Python",
+            "Agile",
+            "Product Management"
+        ],
+        "trending_skills": [
+            [
+                "Python",
+                6
+            ],
+            [
+                "SQL",
+                3
+            ],
+            [
+                "Data Analysis",
+                2
+            ],
+            [
+                "AWS",
+                2
+            ],
+            [
+                "Statistics",
+                2
+            ],
+            [
+                "Agile",
+                2
+            ],
+            [
+                "TensorFlow",
+                1
+            ],
+            [
+                "Deep Learning",
+                1
+            ],
+            [
+                "R",
+                1
+            ],
+            [
+                "Machine Learning",
+                1
+            ],
+            [
+                "Pandas",
+                1
+            ],
+            [
+                "Visualization",
+                1
+            ],
+            [
+                "AI Strategy",
+                1
+            ],
+            [
+                "Product Management",
+                1
+            ],
+            [
+                "Java",
+                1
+            ],
+            [
+                "JavaScript",
+                1
+            ],
+            [
+                "Git",
+                1
+            ],
+            [
+                "Azure",
+                1
+            ],
+            [
+                "Kubernetes",
+                1
+            ],
+            [
+                "Docker",
+                1
+            ],
+            [
+                "Cloud Security",
+                1
+            ],
+            [
+                "Tableau",
+                1
+            ],
+            [
+                "Excel",
+                1
+            ],
+            [
+                "Data Visualization",
+                1
+            ]
+        ],
+        "skill_match_score": 1.0,
+        "missing_skills": [
+            "AI Strategy",
+            "Data Analysis"
+        ],
+        "course_recommendations": [
+            {
+                "skill": "AI Strategy",
+                "course_title": "IBM AI Developer Professional Certificate",
+                "url": "https://www.coursera.org/professional-certificates/ibm-ai-developer",
+                "description": "Build AI-powered applications with Python."
+            },
+            {
+                "skill": "Data Analysis",
+                "course_title": "R Programming by Johns Hopkins",
+                "url": "https://www.coursera.org/learn/r-programming",
+                "description": "Learn data analysis with R."
+            }
+        ]
+    },
+    {
+        "user": "Sofia Patel",
+        "career_goal": "Software Engineer",
+        "current_skills": [
+            "Java",
+            "SQL",
+            "Git"
+        ],
+        "trending_skills": [
+            [
+                "Python",
+                6
+            ],
+            [
+                "SQL",
+                3
+            ],
+            [
+                "Data Analysis",
+                2
+            ],
+            [
+                "AWS",
+                2
+            ],
+            [
+                "Statistics",
+                2
+            ],
+            [
+                "Agile",
+                2
+            ],
+            [
+                "TensorFlow",
+                1
+            ],
+            [
+                "Deep Learning",
+                1
+            ],
+            [
+                "R",
+                1
+            ],
+            [
+                "Machine Learning",
+                1
+            ],
+            [
+                "Pandas",
+                1
+            ],
+            [
+                "Visualization",
+                1
+            ],
+            [
+                "AI Strategy",
+                1
+            ],
+            [
+                "Product Management",
+                1
+            ],
+            [
+                "Java",
+                1
+            ],
+            [
+                "JavaScript",
+                1
+            ],
+            [
+                "Git",
+                1
+            ],
+            [
+                "Azure",
+                1
+            ],
+            [
+                "Kubernetes",
+                1
+            ],
+            [
+                "Docker",
+                1
+            ],
+            [
+                "Cloud Security",
+                1
+            ],
+            [
+                "Tableau",
+                1
+            ],
+            [
+                "Excel",
+                1
+            ],
+            [
+                "Data Visualization",
+                1
+            ]
+        ],
+        "skill_match_score": 1.0,
+        "missing_skills": [
+            "Python",
+            "JavaScript",
+            "Agile"
+        ],
+        "course_recommendations": [
+            {
+                "skill": "Python",
+                "course_title": "Machine Learning by Stanford University",
+                "url": "https://www.coursera.org/learn/machine-learning",
+                "description": "Learn the foundations of Machine Learning with Python."
+            },
+            {
+                "skill": "Python",
+                "course_title": "IBM AI Developer Professional Certificate",
+                "url": "https://www.coursera.org/professional-certificates/ibm-ai-developer",
+                "description": "Build AI-powered applications with Python."
+            },
+            {
+                "skill": "Python",
+                "course_title": "Data Visualization with Python",
+                "url": "https://www.coursera.org/learn/python-for-data-visualization",
+                "description": "Create visualizations using Python and Pandas."
+            }
+        ]
+    },
+    {
+        "user": "Liam Chen",
+        "career_goal": "Cloud Architect",
+        "current_skills": [
+            "AWS",
+            "Python",
+            "Docker"
+        ],
+        "trending_skills": [
+            [
+                "Python",
+                6
+            ],
+            [
+                "SQL",
+                3
+            ],
+            [
+                "Data Analysis",
+                2
+            ],
+            [
+                "AWS",
+                2
+            ],
+            [
+                "Statistics",
+                2
+            ],
+            [
+                "Agile",
+                2
+            ],
+            [
+                "TensorFlow",
+                1
+            ],
+            [
+                "Deep Learning",
+                1
+            ],
+            [
+                "R",
+                1
+            ],
+            [
+                "Machine Learning",
+                1
+            ],
+            [
+                "Pandas",
+                1
+            ],
+            [
+                "Visualization",
+                1
+            ],
+            [
+                "AI Strategy",
+                1
+            ],
+            [
+                "Product Management",
+                1
+            ],
+            [
+                "Java",
+                1
+            ],
+            [
+                "JavaScript",
+                1
+            ],
+            [
+                "Git",
+                1
+            ],
+            [
+                "Azure",
+                1
+            ],
+            [
+                "Kubernetes",
+                1
+            ],
+            [
+                "Docker",
+                1
+            ],
+            [
+                "Cloud Security",
+                1
+            ],
+            [
+                "Tableau",
+                1
+            ],
+            [
+                "Excel",
+                1
+            ],
+            [
+                "Data Visualization",
+                1
+            ]
+        ],
+        "skill_match_score": 0.9745910904457137,
+        "missing_skills": [
+            "Azure",
+            "Kubernetes",
+            "Cloud Security"
+        ],
+        "course_recommendations": [
+            {
+                "skill": "Kubernetes",
+                "course_title": "AWS Cloud Solutions Architect",
+                "url": "https://www.coursera.org/professional-certificates/aws-cloud-solutions-architect",
+                "description": "Design cloud solutions with AWS."
+            }
+        ]
+    },
+    {
+        "user": "Emma Brown",
+        "career_goal": "Data Analyst",
+        "current_skills": [
+            "SQL",
+            "Excel",
+            "Tableau"
+        ],
+        "trending_skills": [
+            [
+                "Python",
+                6
+            ],
+            [
+                "SQL",
+                3
+            ],
+            [
+                "Data Analysis",
+                2
+            ],
+            [
+                "AWS",
+                2
+            ],
+            [
+                "Statistics",
+                2
+            ],
+            [
+                "Agile",
+                2
+            ],
+            [
+                "TensorFlow",
+                1
+            ],
+            [
+                "Deep Learning",
+                1
+            ],
+            [
+                "R",
+                1
+            ],
+            [
+                "Machine Learning",
+                1
+            ],
+            [
+                "Pandas",
+                1
+            ],
+            [
+                "Visualization",
+                1
+            ],
+            [
+                "AI Strategy",
+                1
+            ],
+            [
+                "Product Management",
+                1
+            ],
+            [
+                "Java",
+                1
+            ],
+            [
+                "JavaScript",
+                1
+            ],
+            [
+                "Git",
+                1
+            ],
+            [
+                "Azure",
+                1
+            ],
+            [
+                "Kubernetes",
+                1
+            ],
+            [
+                "Docker",
+                1
+            ],
+            [
+                "Cloud Security",
+                1
+            ],
+            [
+                "Tableau",
+                1
+            ],
+            [
+                "Excel",
+                1
+            ],
+            [
+                "Data Visualization",
+                1
+            ]
+        ],
+        "skill_match_score": 0.9745910904457137,
+        "missing_skills": [
+            "Python",
+            "Data Visualization",
+            "Statistics"
+        ],
+        "course_recommendations": [
+            {
+                "skill": "Python",
+                "course_title": "Machine Learning by Stanford University",
+                "url": "https://www.coursera.org/learn/machine-learning",
+                "description": "Learn the foundations of Machine Learning with Python."
+            },
+            {
+                "skill": "Python",
+                "course_title": "IBM AI Developer Professional Certificate",
+                "url": "https://www.coursera.org/professional-certificates/ibm-ai-developer",
+                "description": "Build AI-powered applications with Python."
+            },
+            {
+                "skill": "Python",
+                "course_title": "Data Visualization with Python",
+                "url": "https://www.coursera.org/learn/python-for-data-visualization",
+                "description": "Create visualizations using Python and Pandas."
+            },
+            {
+                "skill": "Data Visualization",
+                "course_title": "Data Analysis with Tableau",
+                "url": "https://www.coursera.org/learn/data-analysis-tableau",
+                "description": "Create dashboards with Tableau."
+            },
+            {
+                "skill": "Statistics",
+                "course_title": "R Programming by Johns Hopkins",
+                "url": "https://www.coursera.org/learn/r-programming",
+                "description": "Learn data analysis with R."
+            }
+        ]
+    },
+    {
+        "user": "Noah Lee",
+        "career_goal": "Data Scientist",
+        "current_skills": [
+            "Python",
+            "R",
+            "Statistics"
+        ],
+        "trending_skills": [
+            [
+                "Python",
+                6
+            ],
+            [
+                "SQL",
+                3
+            ],
+            [
+                "Data Analysis",
+                2
+            ],
+            [
+                "AWS",
+                2
+            ],
+            [
+                "Statistics",
+                2
+            ],
+            [
+                "Agile",
+                2
+            ],
+            [
+                "TensorFlow",
+                1
+            ],
+            [
+                "Deep Learning",
+                1
+            ],
+            [
+                "R",
+                1
+            ],
+            [
+                "Machine Learning",
+                1
+            ],
+            [
+                "Pandas",
+                1
+            ],
+            [
+                "Visualization",
+                1
+            ],
+            [
+                "AI Strategy",
+                1
+            ],
+            [
+                "Product Management",
+                1
+            ],
+            [
+                "Java",
+                1
+            ],
+            [
+                "JavaScript",
+                1
+            ],
+            [
+                "Git",
+                1
+            ],
+            [
+                "Azure",
+                1
+            ],
+            [
+                "Kubernetes",
+                1
+            ],
+            [
+                "Docker",
+                1
+            ],
+            [
+                "Cloud Security",
+                1
+            ],
+            [
+                "Tableau",
+                1
+            ],
+            [
+                "Excel",
+                1
+            ],
+            [
+                "Data Visualization",
+                1
+            ]
+        ],
+        "skill_match_score": 0.8994364165239821,
+        "missing_skills": [
+            "Machine Learning",
+            "Pandas",
+            "Visualization"
+        ],
+        "course_recommendations": [
+            {
+                "skill": "Machine Learning",
+                "course_title": "Machine Learning by Stanford University",
+                "url": "https://www.coursera.org/learn/machine-learning",
+                "description": "Learn the foundations of Machine Learning with Python."
+            },
+            {
+                "skill": "Pandas",
+                "course_title": "Data Visualization with Python",
+                "url": "https://www.coursera.org/learn/python-for-data-visualization",
+                "description": "Create visualizations using Python and Pandas."
+            }
+        ]
+    },
+    {
+        "user": "Olivia Garcia",
+        "career_goal": "Software Engineer",
+        "current_skills": [
+            "JavaScript",
+            "Python",
+            "Agile"
+        ],
+        "trending_skills": [
+            [
+                "Python",
+                6
+            ],
+            [
+                "SQL",
+                3
+            ],
+            [
+                "Data Analysis",
+                2
+            ],
+            [
+                "AWS",
+                2
+            ],
+            [
+                "Statistics",
+                2
+            ],
+            [
+                "Agile",
+                2
+            ],
+            [
+                "TensorFlow",
+                1
+            ],
+            [
+                "Deep Learning",
+                1
+            ],
+            [
+                "R",
+                1
+            ],
+            [
+                "Machine Learning",
+                1
+            ],
+            [
+                "Pandas",
+                1
+            ],
+            [
+                "Visualization",
+                1
+            ],
+            [
+                "AI Strategy",
+                1
+            ],
+            [
+                "Product Management",
+                1
+            ],
+            [
+                "Java",
+                1
+            ],
+            [
+                "JavaScript",
+                1
+            ],
+            [
+                "Git",
+                1
+            ],
+            [
+                "Azure",
+                1
+            ],
+            [
+                "Kubernetes",
+                1
+            ],
+            [
+                "Docker",
+                1
+            ],
+            [
+                "Cloud Security",
+                1
+            ],
+            [
+                "Tableau",
+                1
+            ],
+            [
+                "Excel",
+                1
+            ],
+            [
+                "Data Visualization",
+                1
+            ]
+        ],
+        "skill_match_score": 1.0,
+        "missing_skills": [
+            "Java",
+            "SQL",
+            "Git"
+        ],
+        "course_recommendations": [
+            {
+                "skill": "Java",
+                "course_title": "Java Programming and Software Engineering",
+                "url": "https://www.coursera.org/specializations/java-programming",
+                "description": "Master Java programming and software engineering."
+            },
+            {
+                "skill": "SQL",
+                "course_title": "Data Analysis with Tableau",
+                "url": "https://www.coursera.org/learn/data-analysis-tableau",
+                "description": "Create dashboards with Tableau."
+            }
+        ]
+    },
+    {
+        "user": "Mason Wong",
+        "career_goal": "Cloud Architect",
+        "current_skills": [
+            "Azure",
+            "Kubernetes",
+            "Python"
+        ],
+        "trending_skills": [
+            [
+                "Python",
+                6
+            ],
+            [
+                "SQL",
+                3
+            ],
+            [
+                "Data Analysis",
+                2
+            ],
+            [
+                "AWS",
+                2
+            ],
+            [
+                "Statistics",
+                2
+            ],
+            [
+                "Agile",
+                2
+            ],
+            [
+                "TensorFlow",
+                1
+            ],
+            [
+                "Deep Learning",
+                1
+            ],
+            [
+                "R",
+                1
+            ],
+            [
+                "Machine Learning",
+                1
+            ],
+            [
+                "Pandas",
+                1
+            ],
+            [
+                "Visualization",
+                1
+            ],
+            [
+                "AI Strategy",
+                1
+            ],
+            [
+                "Product Management",
+                1
+            ],
+            [
+                "Java",
+                1
+            ],
+            [
+                "JavaScript",
+                1
+            ],
+            [
+                "Git",
+                1
+            ],
+            [
+                "Azure",
+                1
+            ],
+            [
+                "Kubernetes",
+                1
+            ],
+            [
+                "Docker",
+                1
+            ],
+            [
+                "Cloud Security",
+                1
+            ],
+            [
+                "Tableau",
+                1
+            ],
+            [
+                "Excel",
+                1
+            ],
+            [
+                "Data Visualization",
+                1
+            ]
+        ],
+        "skill_match_score": 0.9745910904457137,
+        "missing_skills": [
+            "AWS",
+            "Docker",
+            "Cloud Security"
+        ],
+        "course_recommendations": [
+            {
+                "skill": "AWS",
+                "course_title": "AWS Cloud Solutions Architect",
+                "url": "https://www.coursera.org/professional-certificates/aws-cloud-solutions-architect",
+                "description": "Design cloud solutions with AWS."
+            }
+        ]
+    },
+    {
+        "user": "Ava Martinez",
+        "career_goal": "Data Analyst",
+        "current_skills": [
+            "Python",
+            "Data Visualization",
+            "SQL"
+        ],
+        "trending_skills": [
+            [
+                "Python",
+                6
+            ],
+            [
+                "SQL",
+                3
+            ],
+            [
+                "Data Analysis",
+                2
+            ],
+            [
+                "AWS",
+                2
+            ],
+            [
+                "Statistics",
+                2
+            ],
+            [
+                "Agile",
+                2
+            ],
+            [
+                "TensorFlow",
+                1
+            ],
+            [
+                "Deep Learning",
+                1
+            ],
+            [
+                "R",
+                1
+            ],
+            [
+                "Machine Learning",
+                1
+            ],
+            [
+                "Pandas",
+                1
+            ],
+            [
+                "Visualization",
+                1
+            ],
+            [
+                "AI Strategy",
+                1
+            ],
+            [
+                "Product Management",
+                1
+            ],
+            [
+                "Java",
+                1
+            ],
+            [
+                "JavaScript",
+                1
+            ],
+            [
+                "Git",
+                1
+            ],
+            [
+                "Azure",
+                1
+            ],
+            [
+                "Kubernetes",
+                1
+            ],
+            [
+                "Docker",
+                1
+            ],
+            [
+                "Cloud Security",
+                1
+            ],
+            [
+                "Tableau",
+                1
+            ],
+            [
+                "Excel",
+                1
+            ],
+            [
+                "Data Visualization",
+                1
+            ]
+        ],
+        "skill_match_score": 1.0,
+        "missing_skills": [
+            "Tableau",
+            "Excel",
+            "Statistics"
+        ],
+        "course_recommendations": [
+            {
+                "skill": "Tableau",
+                "course_title": "Data Analysis with Tableau",
+                "url": "https://www.coursera.org/learn/data-analysis-tableau",
+                "description": "Create dashboards with Tableau."
+            },
+            {
+                "skill": "Statistics",
+                "course_title": "Machine Learning by Stanford University",
+                "url": "https://www.coursera.org/learn/machine-learning",
+                "description": "Learn the foundations of Machine Learning with Python."
+            },
+            {
+                "skill": "Statistics",
+                "course_title": "R Programming by Johns Hopkins",
+                "url": "https://www.coursera.org/learn/r-programming",
+                "description": "Learn data analysis with R."
+            }
+        ]
+    }
+]
